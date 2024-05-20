@@ -36,8 +36,8 @@ pushful and optimistic Dev.</h3>
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaeHong-Ahn&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaeHong-Ahn&theme=tokyonight)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JaeHong-Ahn&theme=nord_bright) &nbsp; &nbsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JaeHong-Ahn&theme=nord_bright&exclude=html,css)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JaeHong-Ahn&theme=tokyonight) &nbsp; &nbsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JaeHong-Ahn&theme=tokyonight&exclude=html,css)
   
 </div>
